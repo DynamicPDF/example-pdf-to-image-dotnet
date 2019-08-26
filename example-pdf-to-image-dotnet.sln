@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29209.62
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "example-pdf-to-image-dotnet", "example-pdf-to-image-dotnet.csproj", "{24A91779-8E2A-4534-95A0-080ECBD04D1C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{24A91779-8E2A-4534-95A0-080ECBD04D1C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24A91779-8E2A-4534-95A0-080ECBD04D1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24A91779-8E2A-4534-95A0-080ECBD04D1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24A91779-8E2A-4534-95A0-080ECBD04D1C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0DC528F4-B64F-4621-8EC9-0C791B8AFF65}
+	EndGlobalSection
+EndGlobal
